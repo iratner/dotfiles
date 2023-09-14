@@ -1,0 +1,7 @@
+[core]
+	editor = code --wait
+[user]
+	email = ilya@thirdwave.ai
+	name = ilya ratner
+[color "status"]
+     unmerged  = yellow
